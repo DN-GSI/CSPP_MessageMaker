@@ -14,7 +14,10 @@
 			<Item Name="originalMain.vi" Type="VI" URL="../originalMain.vi"/>
 		</Item>
 		<Item Name="Message Templates" Type="Folder">
-			<Item Name="original Template.lvlib" Type="Library" URL="../Message_Template/original Template/original Template.lvlib"/>
+			<Item Name="original Template" Type="Folder">
+				<Item Name="Dummy Actor Method.vi" Type="VI" URL="../Message_Template/original Template/Dummy Actor Method.vi"/>
+				<Item Name="Message Template.lvclass" Type="LVClass" URL="../Message_Template/original Template/Message Template.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="Symbols" Type="Folder">
 			<Item Name="check.png" Type="Document" URL="../Symbols/check.png"/>
@@ -27,6 +30,7 @@
 		<Item Name="CS++Actor.lvlib" Type="Library" URL="../CSPP_Actor/CS++Actor.lvlib"/>
 		<Item Name="CS++Message.lvlib" Type="Library" URL="../CSPP_Message/CS++Message.lvlib"/>
 		<Item Name="CS++MessageMakerMain.lvlib" Type="Library" URL="../CSPP_MessageMakerMain/CS++MessageMakerMain.lvlib"/>
+		<Item Name="CS++MessagemakerUtilities.lvlib" Type="Library" URL="../CSPP_MessageMaker_Utilities/CS++MessagemakerUtilities.lvlib"/>
 		<Item Name="CS++Method.lvlib" Type="Library" URL="../CSPP_Method/CS++Method.lvlib"/>
 		<Item Name="TestVIs.lvlib" Type="Library" URL="../TestVIs/TestVIs.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
