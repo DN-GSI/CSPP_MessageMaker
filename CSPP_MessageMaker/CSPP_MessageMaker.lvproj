@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="MainVIs" Type="Folder">
-			<Item Name="originalMain.vi" Type="VI" URL="../originalMain.vi"/>
+			<Item Name="CSPP_MM.vi" Type="VI" URL="../../CSPP_MM.vi"/>
 		</Item>
 		<Item Name="Message Templates" Type="Folder">
 			<Item Name="original Template" Type="Folder">

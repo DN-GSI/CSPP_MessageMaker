@@ -1,0 +1,8 @@
+*.aliases
+*.lvlps
+<<<<<<< HEAD
+*.bak
+*.tmp
+~$*
+=======
+*.bak
