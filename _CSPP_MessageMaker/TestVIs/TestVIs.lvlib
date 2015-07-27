@@ -8,4 +8,6 @@
 	<Item Name="2-FindMsgs.vi" Type="VI" URL="../2-FindMsgs.vi"/>
 	<Item Name="3-FindMethods.vi" Type="VI" URL="../3-FindMethods.vi"/>
 	<Item Name="4-Build Do.vi" Type="VI" URL="../4-Build Do.vi"/>
+	<Item Name="5-CopyFileContent.vi" Type="VI" URL="../5-CopyFileContent.vi"/>
+	<Item Name="TestTarget.vi" Type="VI" URL="../TestTarget.vi"/>
 </Library>
