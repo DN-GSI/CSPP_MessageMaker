@@ -9,5 +9,6 @@
 	<Item Name="3-FindMethods.vi" Type="VI" URL="../3-FindMethods.vi"/>
 	<Item Name="4-Build Do.vi" Type="VI" URL="../4-Build Do.vi"/>
 	<Item Name="5-CopyFileContent.vi" Type="VI" URL="../5-CopyFileContent.vi"/>
+	<Item Name="6-CleanFP.vi" Type="VI" URL="../6-CleanFP.vi"/>
 	<Item Name="TestTarget.vi" Type="VI" URL="../TestTarget.vi"/>
 </Library>
