@@ -1,0 +1,16 @@
+Some scripting code could not be implemented to be as flexible as wanted. For this reason several programming
+guides have to be followed to get them working:
+
+Do.vi
+-----
+- There should be only one LabVIEW class conatnt on the block diagram
+- There should be only one case structure with the label "options" on the block diagram. Within this case structure
+should be the SubVI
+- There has to be one LabVIEW class control with the name "DNL_Message Template". This one will be exchanged with the
+new message class.
+
+Send Template.vi
+----------------
+- Please don´t use another template VI with the name Send XXX.vi.
+- There can be one LabVIEW class control with the name "DNL_Message Template". This one will be exchanged with the
+new message class.
