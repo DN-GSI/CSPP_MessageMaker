@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Installer" Type="Folder">
+			<Item Name="Installer.vi" Type="VI" URL="../Installer/Installer.vi"/>
+		</Item>
 		<Item Name="MainVI" Type="Folder">
 			<Item Name="CSPP_MM.vi" Type="VI" URL="../../CSPP_MM.vi"/>
 		</Item>
