@@ -14,3 +14,9 @@ Send Template.vi
 - Please don´t use another template VI with the name Send XXX.vi.
 - There can be one LabVIEW class control with the name "DNL_Message Template". This one will be exchanged with the
 new message class.
+
+In addition:
+------------
+Be carefull when including VIs from libraries of the target project. This can very easy lead to locked libraries because
+in the end they are opened in both projects. Better: Include Dummy.vis and overwrite them with the correct ones once
+you build them.
