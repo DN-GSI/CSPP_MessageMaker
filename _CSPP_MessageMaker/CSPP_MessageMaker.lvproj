@@ -17,10 +17,13 @@
 			<Item Name="CSPP_MM.vi" Type="VI" URL="../../CSPP_MM.vi"/>
 		</Item>
 		<Item Name="Message Templates" Type="Folder">
+			<Item Name="Dialog Template" Type="Folder">
+				<Item Name="Dialog Template.lvclass" Type="LVClass" URL="../Message_Template/Dialog Template/Dialog Template.lvclass"/>
+			</Item>
 			<Item Name="original Template" Type="Folder">
 				<Item Name="Message Template.lvclass" Type="LVClass" URL="../Message_Template/original Template/Message Template.lvclass"/>
 			</Item>
-			<Item Name="PVUpdate-Addons" Type="Folder">
+			<Item Name="PVUpdate Template" Type="Folder">
 				<Item Name="PV Message Template.lvclass" Type="LVClass" URL="../Message_Template/PV Template/PV Message Template.lvclass"/>
 			</Item>
 			<Item Name="Dummy Actor Method.vi" Type="VI" URL="../Message_Template/Dummy Actor Method.vi"/>
