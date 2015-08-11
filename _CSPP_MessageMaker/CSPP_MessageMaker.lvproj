@@ -20,6 +20,9 @@
 			<Item Name="Dialog Template" Type="Folder">
 				<Item Name="Dialog Template.lvclass" Type="LVClass" URL="../Message_Template/Dialog Template/Dialog Template.lvclass"/>
 			</Item>
+			<Item Name="DPV Template" Type="Folder">
+				<Item Name="Dialog PV Template.lvclass" Type="LVClass" URL="../Message_Template/D_PV Template/Dialog PV Template.lvclass"/>
+			</Item>
 			<Item Name="original Template" Type="Folder">
 				<Item Name="Message Template.lvclass" Type="LVClass" URL="../Message_Template/original Template/Message Template.lvclass"/>
 			</Item>
