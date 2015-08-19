@@ -1,6 +1,11 @@
 Some scripting code could not be implemented to be as flexible as wanted. For this reason several programming
 guides have to be followed to get them working:
 
+All
+---
+The name of all VIs should start with TEMPxxx.vi except of the the Send XXX.vi. This is needed in order to rename the
+VI later in the build process.
+
 Do.vi
 -----
 - There should be only one LabVIEW class conatnt on the block diagram
