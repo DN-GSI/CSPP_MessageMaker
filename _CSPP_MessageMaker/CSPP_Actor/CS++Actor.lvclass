@@ -293,7 +293,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Build Get Type.vi" Type="VI" URL="../Build Get Type.vi">
+			<Item Name="Build GetType.vi" Type="VI" URL="../Build GetType.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;7!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!D$U.4+SN"9X2P=CZM&gt;GRJ9B&amp;$5SML17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!.1V-L+U&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"B!=!!)!!!!3A!!#U&gt;F&gt;#"5?8"F)&amp;:*!$J!=!!?!!!D$U.4+SN"9X2P=CZM&gt;GRJ9B&amp;$5SML17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!-1V-L+U&amp;D&gt;'^S)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
