@@ -33,6 +33,7 @@
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="HelpWindow.vi" Type="VI" URL="../HelpWindow.vi"/>
 	<Item Name="SetProgress.vi" Type="VI" URL="../SetProgress.vi"/>
 	<Item Name="Version.txt" Type="Document" URL="../Version.txt"/>
 </Library>
