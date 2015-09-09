@@ -11,6 +11,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Installer" Type="Folder">
+			<Item Name="SubVIs" Type="Folder">
+				<Item Name="AddConfigureDialog.vi" Type="VI" URL="../Installer/SubVIs/AddConfigureDialog.vi"/>
+			</Item>
+			<Item Name="Template-Files" Type="Folder">
+				<Item Name="Configure Dialog.vi" Type="VI" URL="../Installer/Template-Files/Configure Dialog.vi"/>
+			</Item>
 			<Item Name="Installer.vi" Type="VI" URL="../Installer/Installer.vi"/>
 		</Item>
 		<Item Name="MainVI" Type="Folder">
@@ -121,6 +127,7 @@
 				<Item Name="MD5Checksum format message-digest.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum format message-digest.vi"/>
 				<Item Name="MD5Checksum pad.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum pad.vi"/>
 				<Item Name="MD5Checksum string.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum string.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Pathes.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Pathes.ctl"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
