@@ -12,10 +12,12 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Installer" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
-				<Item Name="AddConfigureDialog.vi" Type="VI" URL="../Installer/SubVIs/AddConfigureDialog.vi"/>
+				<Item Name="AddTemplate.vi" Type="VI" URL="../Installer/SubVIs/AddTemplate.vi"/>
 			</Item>
 			<Item Name="Template-Files" Type="Folder">
 				<Item Name="Configure Dialog.vi" Type="VI" URL="../Installer/Template-Files/Configure Dialog.vi"/>
+				<Item Name="GetType.vi" Type="VI" URL="../Installer/Template-Files/GetType.vi"/>
+				<Item Name="Variant to Attribute.vi" Type="VI" URL="../Installer/Template-Files/Variant to Attribute.vi"/>
 			</Item>
 			<Item Name="Installer.vi" Type="VI" URL="../Installer/Installer.vi"/>
 		</Item>
