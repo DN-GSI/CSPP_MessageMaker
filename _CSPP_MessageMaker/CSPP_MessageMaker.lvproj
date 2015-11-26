@@ -12,7 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Installer" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
-				<Item Name="AddTemplate.vi" Type="VI" URL="../Installer/VIs/AddTemplate.vi"/>
+				<Item Name="AddTemplate.vi" Type="VI" URL="../Installer/SubVIs/AddTemplate.vi"/>
 			</Item>
 			<Item Name="Template-Files" Type="Folder">
 				<Item Name="Configure Dialog.vi" Type="VI" URL="../Installer/Template-Files/Configure Dialog.vi"/>
@@ -168,7 +168,6 @@
 				<Item Name="VIAnUtil Check Type If ErrClust.vi" Type="VI" URL="/&lt;vilib&gt;/addons/analyzer/_analyzerutils.llb/VIAnUtil Check Type If ErrClust.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="AddTemplate.vi" Type="VI" URL="../Installer/SubVIs/AddTemplate.vi"/>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
