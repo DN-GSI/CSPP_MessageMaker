@@ -34,6 +34,33 @@
 			<Item Name="CSPP_MM.vi" Type="VI" URL="../../CSPP_MM.vi"/>
 		</Item>
 		<Item Name="Message Templates" Type="Folder">
+			<Item Name="_Dummy VIs" Type="Folder">
+				<Item Name="Dummy Actor Method.vi" Type="VI" URL="../Message_Template/Dummy Actor Method.vi"/>
+				<Item Name="Dummy Error Cluster from Error Code.vi" Type="VI" URL="../Message_Template/Dummy Error Cluster from Error Code.vi"/>
+				<Item Name="Dummy ParentDo.vi" Type="VI" URL="../Message_Template/Dummy ParentDo.vi"/>
+				<Item Name="Dummy Read AckMsg.vi" Type="VI" URL="../Message_Template/Dummy Read AckMsg.vi"/>
+				<Item Name="Dummy Read CallerParameter.vi" Type="VI" URL="../Message_Template/Dummy Read CallerParameter.vi"/>
+				<Item Name="Dummy Read Data.vi" Type="VI" URL="../Message_Template/Dummy Read Data.vi"/>
+				<Item Name="Dummy Read PV.vi" Type="VI" URL="../Message_Template/Dummy Read PV.vi"/>
+				<Item Name="Dummy Read ReturnParameter.vi" Type="VI" URL="../Message_Template/Dummy Read ReturnParameter.vi"/>
+				<Item Name="Dummy Read Time Stamp.vi" Type="VI" URL="../Message_Template/Dummy Read Time Stamp.vi"/>
+				<Item Name="Dummy Read TimeOut.vi" Type="VI" URL="../Message_Template/Dummy Read TimeOut.vi"/>
+				<Item Name="Dummy Write AckMsg.vi" Type="VI" URL="../Message_Template/Dummy Write AckMsg.vi"/>
+				<Item Name="Dummy Write AckMsg2.vi" Type="VI" URL="../Message_Template/Dummy Write AckMsg2.vi"/>
+				<Item Name="Dummy Write AckRcv.vi" Type="VI" URL="../Message_Template/Dummy Write AckRcv.vi"/>
+				<Item Name="Dummy Write CallerParameter.vi" Type="VI" URL="../Message_Template/Dummy Write CallerParameter.vi"/>
+				<Item Name="Dummy Write Error.vi" Type="VI" URL="../Message_Template/Dummy Write Error.vi"/>
+				<Item Name="Dummy Write Expired.vi" Type="VI" URL="../Message_Template/Dummy Write Expired.vi"/>
+				<Item Name="Dummy Write ReturnParameter.vi" Type="VI" URL="../Message_Template/Dummy Write ReturnParameter.vi"/>
+				<Item Name="Dummy Write Time Stamp.vi" Type="VI" URL="../Message_Template/Dummy Write Time Stamp.vi"/>
+				<Item Name="Dummy Write TimeOut.vi" Type="VI" URL="../Message_Template/Dummy Write TimeOut.vi"/>
+			</Item>
+			<Item Name="AsynchReturn Template" Type="Folder">
+				<Item Name="AsynchReturn Template.lvclass" Type="LVClass" URL="../Message_Template/AsynchReturn Template/AsynchReturn Template.lvclass"/>
+			</Item>
+			<Item Name="AsynchReturnDialog Template" Type="Folder">
+				<Item Name="AsynchReturnDialog Template.lvclass" Type="LVClass" URL="../Message_Template/AsynchReturnDialog Template/AsynchReturnDialog Template.lvclass"/>
+			</Item>
 			<Item Name="Dialog Template" Type="Folder">
 				<Item Name="Dialog Template.lvclass" Type="LVClass" URL="../Message_Template/Dialog Template/Dialog Template.lvclass"/>
 			</Item>
@@ -46,9 +73,9 @@
 			<Item Name="PVUpdate Template" Type="Folder">
 				<Item Name="PV Message Template.lvclass" Type="LVClass" URL="../Message_Template/PV Template/PV Message Template.lvclass"/>
 			</Item>
-			<Item Name="Dummy Actor Method.vi" Type="VI" URL="../Message_Template/Dummy Actor Method.vi"/>
-			<Item Name="Dummy Read Data.vi" Type="VI" URL="../Message_Template/Dummy Read Data.vi"/>
-			<Item Name="Dummy Read PV.vi" Type="VI" URL="../Message_Template/Dummy Read PV.vi"/>
+			<Item Name="Return Template" Type="Folder">
+				<Item Name="Return Template.lvclass" Type="LVClass" URL="../Message_Template/Return Template/Return Template.lvclass"/>
+			</Item>
 			<Item Name="Rules for templates.txt" Type="Document" URL="../Message_Template/Rules for templates.txt"/>
 		</Item>
 		<Item Name="Symbols" Type="Folder">
@@ -58,6 +85,8 @@
 			<Item Name="dialog2.png" Type="Document" URL="../Symbols/dialog2.png"/>
 			<Item Name="GlobalVariable.png" Type="Document" URL="../Symbols/GlobalVariable.png"/>
 			<Item Name="LVError.png" Type="Document" URL="../Symbols/LVError.png"/>
+			<Item Name="return.png" Type="Document" URL="../Symbols/return.png"/>
+			<Item Name="returndialog.png" Type="Document" URL="../Symbols/returndialog.png"/>
 			<Item Name="Warning.png" Type="Document" URL="../Symbols/Warning.png"/>
 		</Item>
 		<Item Name="CS++Actor.lvlib" Type="Library" URL="../CSPP_Actor/CS++Actor.lvlib"/>

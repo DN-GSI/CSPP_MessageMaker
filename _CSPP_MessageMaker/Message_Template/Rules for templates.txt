@@ -3,12 +3,12 @@ guides have to be followed to get them working:
 
 All
 ---
-The name of all VIs should start with TEMPxxx.vi except of the the Send XXX.vi. This is needed in order to rename the
+The name of all VIs should start with TEMPxxx.vi except of the Send XXX.vi. This is needed in order to rename the
 VI later in the build process.
 
 Do.vi
 -----
-- There should be only one LabVIEW class conatnt on the block diagram
+- There should be only one LabVIEW class constant on the block diagram
 - There should be only one case structure with the label "options" on the block diagram. Within this case structure
 should be the SubVI
 - There has to be one LabVIEW class control with the name "DNL_Message Template". This one will be exchanged with the
