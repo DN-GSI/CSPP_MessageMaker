@@ -55,6 +55,9 @@
 				<Item Name="Dummy Write Time Stamp.vi" Type="VI" URL="../Message_Template/Dummy Write Time Stamp.vi"/>
 				<Item Name="Dummy Write TimeOut.vi" Type="VI" URL="../Message_Template/Dummy Write TimeOut.vi"/>
 			</Item>
+			<Item Name="Acknowledge Template" Type="Folder">
+				<Item Name="Acknowledge Template.lvclass" Type="LVClass" URL="../Message_Template/Acknowledge Template/Acknowledge Template.lvclass"/>
+			</Item>
 			<Item Name="AsynchReturn Template" Type="Folder">
 				<Item Name="AsynchReturn Template.lvclass" Type="LVClass" URL="../Message_Template/AsynchReturn Template/AsynchReturn Template.lvclass"/>
 			</Item>
