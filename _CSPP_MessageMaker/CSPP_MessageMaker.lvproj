@@ -55,9 +55,6 @@
 				<Item Name="Dummy Write Time Stamp.vi" Type="VI" URL="../Message_Template/Dummy Write Time Stamp.vi"/>
 				<Item Name="Dummy Write TimeOut.vi" Type="VI" URL="../Message_Template/Dummy Write TimeOut.vi"/>
 			</Item>
-			<Item Name="Acknowledge Template" Type="Folder">
-				<Item Name="Acknowledge Template.lvclass" Type="LVClass" URL="../Message_Template/Acknowledge Template/Acknowledge Template.lvclass"/>
-			</Item>
 			<Item Name="AsynchReturn Template" Type="Folder">
 				<Item Name="AsynchReturn Template.lvclass" Type="LVClass" URL="../Message_Template/AsynchReturn Template/AsynchReturn Template.lvclass"/>
 			</Item>
@@ -82,14 +79,19 @@
 			<Item Name="Rules for templates.txt" Type="Document" URL="../Message_Template/Rules for templates.txt"/>
 		</Item>
 		<Item Name="Symbols" Type="Folder">
+			<Item Name="arrow_placeholder.png" Type="Document" URL="../Symbols/arrow_placeholder.png"/>
 			<Item Name="check.png" Type="Document" URL="../Symbols/check.png"/>
 			<Item Name="cluster.png" Type="Document" URL="../Symbols/cluster.png"/>
 			<Item Name="Dialog and PV.png" Type="Document" URL="../Symbols/Dialog and PV.png"/>
 			<Item Name="dialog2.png" Type="Document" URL="../Symbols/dialog2.png"/>
 			<Item Name="GlobalVariable.png" Type="Document" URL="../Symbols/GlobalVariable.png"/>
+			<Item Name="LeftArrow.png" Type="Document" URL="../Symbols/LeftArrow.png"/>
 			<Item Name="LVError.png" Type="Document" URL="../Symbols/LVError.png"/>
+			<Item Name="PV.png" Type="Document" URL="../Symbols/PV.png"/>
 			<Item Name="return.png" Type="Document" URL="../Symbols/return.png"/>
 			<Item Name="returndialog.png" Type="Document" URL="../Symbols/returndialog.png"/>
+			<Item Name="RightArrow.png" Type="Document" URL="../Symbols/RightArrow.png"/>
+			<Item Name="RightArrowDialog.png" Type="Document" URL="../Symbols/RightArrowDialog.png"/>
 			<Item Name="Warning.png" Type="Document" URL="../Symbols/Warning.png"/>
 		</Item>
 		<Item Name="CS++Actor.lvlib" Type="Library" URL="../CSPP_Actor/CS++Actor.lvlib"/>
