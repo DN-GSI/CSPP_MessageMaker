@@ -12,6 +12,7 @@
 	<Item Name="6-CleanFP.vi" Type="VI" URL="../6-CleanFP.vi"/>
 	<Item Name="7-CleanFP2ndMode.vi" Type="VI" URL="../7-CleanFP2ndMode.vi"/>
 	<Item Name="8-ModifyNIAFClass.vi" Type="VI" URL="../8-ModifyNIAFClass.vi"/>
+	<Item Name="9-WriteAccessTest.vi" Type="VI" URL="../9-WriteAccessTest.vi"/>
 	<Item Name="TestTarget.vi" Type="VI" URL="../TestTarget.vi"/>
 	<Item Name="TestTarget2.vi" Type="VI" URL="../TestTarget2.vi"/>
 </Library>
